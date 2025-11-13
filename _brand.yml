@@ -1,0 +1,38 @@
+color:
+  palette:
+    cream:   "#F5F2EB"
+    blue:  "#0077C0"
+    navy:   "#001F3F"
+    coral:    "#E05122"
+    mustard: "#F2B700"
+  background: cream
+  foreground: navy
+  primary: blue
+  secondary: navy
+  link: mustard
+
+typography:
+  fonts:
+    - family: Commissioner
+      source: file
+      files:
+        - path: /fonts/commissioner-v13-latin-regular.woff2
+          weight: 400
+          style: normal
+        - path: /fonts/commissioner-v13-latin-regular.woff
+          weight: 400
+          style: normal
+    - family: Fraunces
+      source: file
+      files:
+        - path: /fonts/Fraunces9pt-Light.woff2
+          weight: 300
+          style: normal
+
+  base:
+    family: Commissioner
+    weight: 400
+
+  headings:
+    family: Fraunces
+    color: blue

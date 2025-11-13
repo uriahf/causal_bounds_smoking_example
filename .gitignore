@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/.quarto/
+**/*.quarto_ipynb
+causal_bounds_smoking_example.html
+causal_bounds_smoking_example_files
