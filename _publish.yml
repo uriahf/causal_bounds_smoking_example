@@ -1,4 +1,4 @@
-- source: causal_bounds_smoking_example.qmd
+- source: project
   netlify:
     - id: e05028b3-b337-468e-9fac-fc77be1127a6
       url: https://causalbounds.netlify.app
