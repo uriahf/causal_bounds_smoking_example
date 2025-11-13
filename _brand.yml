@@ -16,16 +16,16 @@ typography:
     - family: Commissioner
       source: file
       files:
-        - path: /fonts/commissioner-v13-latin-regular.woff2
+        - path: fonts/commissioner-v13-latin-regular.woff2
           weight: 400
           style: normal
-        - path: /fonts/commissioner-v13-latin-regular.woff
+        - path: fonts/commissioner-v13-latin-regular.woff
           weight: 400
           style: normal
     - family: Fraunces
       source: file
       files:
-        - path: /fonts/Fraunces9pt-Light.woff2
+        - path: fonts/Fraunces9pt-Light.woff2
           weight: 300
           style: normal
 
